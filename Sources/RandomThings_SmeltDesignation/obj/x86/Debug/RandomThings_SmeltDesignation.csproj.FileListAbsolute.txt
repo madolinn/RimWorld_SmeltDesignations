@@ -1,0 +1,5 @@
+A:\Program Files (x86)\Steam\SteamApps\common\RimWorld\Mods\RandomThings - SmeltDesignation\Sources\RandomThings_SmeltDesignation\bin\Debug\RandomThings_SmeltDesignation.dll
+A:\Program Files (x86)\Steam\SteamApps\common\RimWorld\Mods\RandomThings - SmeltDesignation\Sources\RandomThings_SmeltDesignation\bin\Debug\RandomThings_SmeltDesignation.pdb
+A:\Program Files (x86)\Steam\SteamApps\common\RimWorld\Mods\RandomThings - SmeltDesignation\Sources\RandomThings_SmeltDesignation\obj\x86\Debug\RandomThings_SmeltDesignation.dll
+A:\Program Files (x86)\Steam\SteamApps\common\RimWorld\Mods\RandomThings - SmeltDesignation\Assemblies\RandomThings_SmeltDesignation.dll
+A:\Program Files (x86)\Steam\SteamApps\common\RimWorld\Mods\RandomThings - SmeltDesignation\Sources\RandomThings_SmeltDesignation\obj\x86\Debug\RandomThings_SmeltDesignation.csprojResolveAssemblyReference.cache

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs> 
+  
+  <RecipeDef>
+    <defName>SmeltDesignatedThing</defName>
+    <label>smelt designated objects</label>
+    <description>Smelt down designated things that return products.</description>
+    <jobString>Smelting designated object.</jobString>
+    <workAmount>1600</workAmount>
+    <workSpeedStat>SmeltingSpeed</workSpeedStat>
+    <effectWorking>Smelt</effectWorking>
+    <soundWorking>Recipe_Smelt</soundWorking>
+		<specialProducts>
+			<li>Smelted</li>
+		</specialProducts>
+		<ingredients>
+      <li>
+        <filter>
+          <categories>
+            <li>Weapons</li>
+          </categories>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+			<fixedIngredientFilter>
+			<categories>
+				<li>Weapons</li>
+			</categories>
+					  	<specialFiltersToDisallow>
+				<li>AllowSmeltableDesignations</li>
+			</specialFiltersToDisallow>
+		</fixedIngredientFilter>
+		<recipeUsers>
+		<li>ElectricSmelter</li>
+		</recipeUsers>
+  </RecipeDef>
+  
+</Defs>
