@@ -60,7 +60,7 @@ namespace SmeltDesignation
 			{
 				return false;
 			}
-			if (t.Smeltable)
+			if (t.def.IsWithinCategory(ThingCategoryDefOf.Weapons) || t.def.IsWithinCategory(ThingCategoryDefOf.Apparel))
 			{
 				return true;
 			}
