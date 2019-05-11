@@ -5,8 +5,8 @@
 		<defName>AllowSmeltableDesignations</defName>
 		<label>allow designated smeltable</label>
 		<description>a big ol block of test text</description>
-		<parentCategory>Weapons</parentCategory>
-		<allowedByDefault>false</allowedByDefault>
+		<parentCategory>Root</parentCategory>
+		<allowedByDefault>true</allowedByDefault>
 		<saveKey>allowSmeltableDesignations</saveKey>
 		<configurable>true</configurable>
 		<workerClass>SmeltDesignation.SpecialThingFilterWorker_SmeltThing</workerClass>
